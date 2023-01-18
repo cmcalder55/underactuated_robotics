@@ -8,7 +8,7 @@ This project was focused on creating a low-cost robotic hand that can be attache
   <img src="https://github.com/cmcalder55/underactuated_robotics/blob/main/screenshots/davinci.jpg?raw=true" alt="Da Vinci's self-adaptive flapping wings."/>
 </p>
 
-In the robotic gripper, tendon-driven underactuation is used to control 8 finger joints using only 2 motors. The manipulator can be positioned and commanded directly by a user. The manipulator uses force and angle sensors to optimize its grasp. Tasks can also be performed autonomously using sensor feedback.  
+For robotic gripper designed in this project, tendon-driven underactuation is used to control 8 finger joints using only 2 motors. The manipulator can be positioned and commanded directly by a user. The manipulator uses force and angle sensors to optimize its grasp. Tasks can also be performed autonomously using sensor feedback.  
 
 ## Simulation
 First, a SolidWorks model of the robotic hand was created. Once the model was approved, a physical prototype was created and attached to a Kinova robotic arm. **Watch the physical prototype in motion [here](https://youtube.com/shorts/SLhP_C6LJS4?feature=share/).**  
