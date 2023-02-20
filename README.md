@@ -1,5 +1,5 @@
 # Underactuated Robotic Gripper
-Underactuated robotic gripper research performed through the Advanced Robot Manipulators Laboratory at Stevens Institute of Technology under the guidance of Dr. Long Wang. View the lab webpage here: https://longwang.in/
+Underactuated robotic gripper research performed through the Advanced Robot Manipulators Laboratory at Stevens Institute of Technology under the guidance of Dr. Long Wang in collaboration with lab members. View the lab webpage here: https://longwang.in/
 
 ## Background  
 This project was focused on creating a low-cost robotic hand that can be attached to a commercial robotic arm for various complex manipulation tasks. The main feature of the design is the underactuation system, meaning multiple joints can be controlled by one mechanism. Inspired by human biology, underactuation can be used to create self-adaptive mechanisms, such as in DaVinci's wing design seen below [(source)](https://en.wikipedia.org/wiki/Self-adaptive_mechanisms/). 
