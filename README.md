@@ -5,7 +5,7 @@ Underactuated robotic gripper research performed through the Advanced Robot Mani
 This project was focused on creating a low-cost robotic hand that can be attached to a commercial robotic arm for various complex manipulation tasks. The main feature of the design is the underactuation system, meaning multiple joints can be controlled by one mechanism. Inspired by human biology, underactuation can be used to create self-adaptive mechanisms, such as in DaVinci's wing design seen below [(source)](https://en.wikipedia.org/wiki/Self-adaptive_mechanisms/). 
 
 <p align="center">
-  <img src="https://github.com/cmcalder55/underactuated_robotics/blob/main/screenshots/davinci.jpg?raw=true" alt="Da Vinci's self-adaptive flapping wings."/>
+  <img src="https://github.com/cmcalder55/underactuated_robotics/blob/main/screenshots/davinci.jpg?raw=true" alt="Da Vinci's self-adaptive flapping wings." />
 </p>
 
 For robotic gripper designed in this project, tendon-driven underactuation is used to control 8 finger joints using only 2 motors. The manipulator can be positioned and commanded directly by a user. The manipulator uses force and angle sensors to optimize its grasp. Tasks can also be performed autonomously using sensor feedback.  
@@ -14,6 +14,7 @@ For robotic gripper designed in this project, tendon-driven underactuation is us
 First, a SolidWorks model of the robotic hand was created. Once the model was approved, a physical prototype was created and attached to a Kinova robotic arm. **Watch the physical prototype in motion [here](https://youtube.com/shorts/SLhP_C6LJS4?feature=share/).**  
 
 <p align="center">
+  <img src="https://github.com/cmcalder55/underactuated_robotics/blob/main/screenshots/SWmodel.png?raw=true" alt="SolidWorks 3D model." width="295" height="365"/>
   <img src="https://github.com/cmcalder55/underactuated_robotics/blob/main/screenshots/physPrototype.png?raw=true" alt="Physical prototyping." width="295" height="365"/>
 </p>
 
